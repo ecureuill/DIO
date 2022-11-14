@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#DIOQA-7] Como cliente não autenticado e que esqueceu a senha quero poder recupera-la afim de me autenticar no site</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://logikasciuro.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [DIOQA-7]&nbsp;<a href="https://logikasciuro.atlassian.net/browse/DIOQA-7">Como cliente não autenticado e que esqueceu a senha quero poder recupera-la afim de me autenticar no site</a>
+            <span class="subText">
+               Created: 14/Nov/22                   &nbsp;Updated: 14/Nov/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://logikasciuro.atlassian.net/secure/BrowseProject.jspa?id=10000">DIOQA Swag Labs</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63716c255fc160544e16cb8e"
+                id="word_reporter_63716c255fc160544e16cb8e"
+                href="https://logikasciuro.atlassian.net/secure/ViewProfile.jspa?accountId=63716c255fc160544e16cb8e">
+                    Camilla Almeida da Silva
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10006-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10006-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10006-value" class="value" bgcolor="#ffffff" width="80%">      0|i0001b:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>Entrega de valor<br/>
+Objetivo…</li>
+	<li>Narrativa do usuário<br/>
+<b>Como um</b> cliente não autentica e que esqueceu a senha<br/>
+<b>Eu quero</b> poder recuperar a senha<br/>
+<b>Afim de</b> poder me autenticar no site</li>
+	<li>Requisitos técnicos
+	<ol>
+		<li>Atores: Cliente</li>
+		<li>Interfaces/fluxos: N/A</li>
+		<li>Dados: N/A</li>
+		<li>Regras de negócios:
+		<ol>
+			<li>O cliente deve informar o usuário cadastrado para recuperar a senha.</li>
+			<li>Um link de recuperação de senha será enviado ao e-mail associado a conta.</li>
+		</ol>
+		</li>
+		<li>Plataformas e Ambiente:
+		<ol>
+			<li>Web/Web Mobile</li>
+			<li>Ambientes distintos de desenvolvimento, homologação e produção.</li>
+		</ol>
+		</li>
+		<li>Critérios de aceite
+		<ol>
+			<li>Cliente é redirecionado para tela de recuperação de senha<br/>
+###<b>Dado que</b> o cliente não está autenticado e na página de login<br/>
+###<b>Quando</b> seleciona a opção de recuperar senha<br/>
+###<b>Então</b> deverá ser redirecionado para o formulário de recuperação de senha</li>
+			<li>Cliente informa usuário válido<br/>
+###<b>Dado que</b> o cliente está na tela de recuperação de senha<br/>
+###<b>Quando</b> informar usuário válido<br/>
+###<b>Então</b> deverá ser enviado um e-mail com o link de recuperação e apresentado uma mensagem de sucesso</li>
+			<li>Cliente informa usuário inválido<br/>
+###<b>Dado que</b> o cliente está na tela de recuperação de senha<br/>
+###<b>Quando</b> informar usuário inválido<br/>
+###<b>Então</b> deverá ser apresentado mensagem de usuário não cadastrado</li>
+			<li>Cliente cadastra nova senha<br/>
+###<b>Dado que</b> o cliente está na tela de cadastro de senha<br/>
+###<b>Quando</b> informar a nova senha<br/>
+###<b>Então</b> deverá ser apresentado mensagem de senha cadastrada</li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Mon Nov 14 17:29:07 UTC 2022 by Camilla Almeida da Silva using Jira 1001.0.0-SNAPSHOT#100210-sha1:583150f45e96fe66b2cb2898eb1e9ae5719d8732.
+
+</body>
+</html>
