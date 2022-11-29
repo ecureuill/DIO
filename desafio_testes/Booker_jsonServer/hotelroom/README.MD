@@ -13,7 +13,7 @@ git clone git@github.com:ecureuill/DIO_GFT_QA_2022.git
 Install project's dependecies
 
 ```bash
-cd DIO_GFT_QA_2022/hotelroom
+cd DIO_GFT_QA_2022/desafio_testes/Booker_jsonServer/hotelroom/
 npm install
 ```
 Start Json server
