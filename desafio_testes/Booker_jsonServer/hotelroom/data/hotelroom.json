@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "email": "test@mail.com",
+      "password": "$2a$10$46YzedPtROx21Lc4e.flGe/4QjsJTq26XLzGhf7Cu9H9Y8l8Sz452",
+      "id": 1
+    },
+    {
+      "email": "test2@mail.com",
+      "password": "$2a$10$lCLBKF7fPexaUFc8vwpBNOfPE.AfwNP.MBE43hvhuzQD0a9zz4mNi",
+      "id": 2
+    },
+    {
+      "email": "test3@mail.com",
+      "password": "$2a$10$WOpfXuiroThagt0UrchdxeucrvOy.sJ5ISoZcyRz3Ya.9pWAJpxwO",
+      "firstname": "Sally",
+      "lastname": "Brown",
+      "id": 3
+    }
+  ],
+  "dorms": [
+    {
+      "id": 1,
+      "room": 100,
+      "size": 31,
+      "type": "Suite",
+      "occupancy": 2,
+      "vacancy": false,
+      "bedDetais": {
+        "numberOfBeds": 1,
+        "typeOfBed": {
+          "singlebed": 0,
+          "doublebed": 1
+        }
+      },
+      "numberOfFullBathrooms": 1,
+      "numberOfPartialBathrooms": 0,
+      "petallowed": false,
+      "smokingAllowed": true,
+      "price": 500
+    },
+    {
+      "room": 200,
+      "size": 24,
+      "type": "Economic",
+      "occupancy": 2,
+      "vacancy": false,
+      "bedDetais": {
+        "numberOfBeds": 2,
+        "typeOfBed": {
+          "singlebed": 2,
+          "doublebed": 0
+        }
+      },
+      "numberOfFullBathrooms": 0,
+      "numberOfPartialBathrooms": 0,
+      "petallowed": false,
+      "smokingAllowed": false,
+      "price": 200,
+      "id": 2
+    }
+  ],
+  "booking": [
+    {
+      "dormId": 2,
+      "userId": 3,
+      "totalprice": "200",
+      "depositpaid": false,
+      "bookingdates": {
+        "checkin": "2023-01-01",
+        "checkout": "2023-01-15"
+      },
+      "additionalneeds": "café da manha",
+      "id": 1
+    },
+    {
+      "dormId": 2,
+      "userId": 2,
+      "totalprice": "200",
+      "depositpaid": "true",
+      "bookingdates": {
+        "checkin": "2023-01-01",
+        "checkout": "2023-01-15"
+      },
+      "additionalneeds": "café da manha",
+      "id": 2
+    },
+    {
+      "dormId": 2,
+      "userId": 3,
+      "totalprice": "200",
+      "depositpaid": false,
+      "bookingdates": {
+        "checkin": "2023-01-01",
+        "checkout": "2023-01-15"
+      },
+      "additionalneeds": "café da manha",
+      "id": 3
+    },
+    {
+      "dormId": 2,
+      "userId": 4,
+      "totalprice": "200",
+      "depositpaid": "true",
+      "bookingdates": {
+        "checkin": "2023-01-01",
+        "checkout": "2023-01-15"
+      },
+      "additionalneeds": "café da manha",
+      "id": 4
+    }
+  ]
+}
