@@ -587,9 +587,7 @@ DockerFile
 
 ```bash
 FROM debian:bullseye-slim
-
 ENV NODE_VERSION 16.17.0
-
 RUN apt-get update && \
     DEBIAN_FRONTEND=noninteractive  && \
     apt-get install -y  sudo curl wget nano locales git-core git gnupg zsh fonts-powerline && \
@@ -605,12 +603,9 @@ RUN apt-get update && \
 ### locales ###
     rm -rf /var/lib/apt/lists/* && \
     localedef -i pt_BR -c -f UTF-8 -A /usr/share/locale/locale.alias pt_BR.UTF-8
-
 USER devuser
 WORKDIR /home/devuser/development
-
 CMD ["zsh"]
-
 ```
 
 On terminal 
@@ -624,6 +619,5 @@ sudo docker network create myappnet
 cd /Dev/nodejs.projects
 # Run Docker
 sudo docker run --name nodejsenv --rm -it --mount type=bind,source="$(pwd)",target=/home/devuser/development --privileged -v /dev/bus/usb:/dev/bus/usb --net myappnet --publish 3000:3000 devenv:nodejs_16.17.0
-
 ##Follow Get Start steps
 ```
