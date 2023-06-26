@@ -11,3 +11,7 @@ Desafios de projeto:
 - [04](./desafios_proj/004) Criar um código em três arquivos. Você simulará p atp de escp;jer e comprar um produto em um mercado
 
 - [05](./desafios_proj/005) Criar um blog dos livros lidos
+
+- [06](./desafios_proj/006) Criar regex para telefone
+
+- [07](./desafios_proj/007) Fazer um webscrap
