@@ -1,5 +1,10 @@
 # TwiDIO API
 
+[TwiDIO](https://github.com/nathyts/twidio/) é uma aplicação desenvolvida para mostrar os princípios do TDD com Node e TS
+
+Desenvolvido por [@nathyts](https://github.com/nathyts)
+
+
 #### API desenvolvida para o projeto TwiDIO
 
 ### Arquitetura
