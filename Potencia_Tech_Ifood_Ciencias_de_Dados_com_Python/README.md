@@ -2,12 +2,12 @@
 
 Desafios de projeto:
 
-- [01](./desafios_proj/001) Contribuindo em um projeto Open Source no Github.
+- [01](./001) Contribuindo em um projeto Open Source no Github.
 
-- [02](./desafios_proj/002) Criando um sistema bancário com Pythin
+- [02](./002) Criando um sistema bancário com Pythin
 
-- [03](./desafios_proj/003) Otimizando o sistema bancário com funções python.
+- [03](./003) Otimizando o sistema bancário com funções python.
 
-- [04](./desafios_proj/004) Criando seu primeiro projeto lógico de Banco de Dados
+- [04](./004) Criando seu primeiro projeto lógico de Banco de Dados
 
-- [05](./desafios_proj/005) Construa um projeto lógico de banco de dados do zero
+- [05](./005) Construa um projeto lógico de banco de dados do zero
