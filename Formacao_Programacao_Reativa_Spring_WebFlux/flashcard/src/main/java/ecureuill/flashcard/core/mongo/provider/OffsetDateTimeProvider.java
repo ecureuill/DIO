@@ -9,7 +9,7 @@ import static java.time.ZoneOffset.UTC;
 import org.springframework.data.auditing.DateTimeProvider;
 import org.springframework.stereotype.Component;
 
-@Component("dateTimeProvideer")
+@Component("dateTimeProvider")
 public class OffsetDateTimeProvider implements DateTimeProvider{
 
     @Override
