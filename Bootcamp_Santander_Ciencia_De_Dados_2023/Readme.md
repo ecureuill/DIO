@@ -1,0 +1,3 @@
+# <img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" width="60px"> Santander Bootcamp 2023 - Ciência de Dados
+
+- [x] 1st Challange: ETL Pipeline: The script ([notebook](https://github.com/ecureuill/DIO/blob/develop/Bootcamp_Santander_Ciencia_De_Dados_2023/desafio01/desafio.ipynb)) makes a GET request to the [Todos API](https://jsonplaceholder.typicode.com/todos); create fake created date, due date and done date; converts the returned data to a DataFrame using the pandas library; performs analysis of usage patterns, performance, productivity; finally, the results are exported to a CSV file called "todos_data.csv".
